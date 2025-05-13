@@ -1,6 +1,6 @@
 # Welcome to Top G Apps 👋
 
-## We're two passionate Apple Developers dedicated to solving real-world problems. 🌎
+## Apps made for the real world
 
 ## Our core values drive everything we do:
 
